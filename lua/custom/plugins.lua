@@ -32,5 +32,8 @@ local plugins = {
       require('rust-tools').setup(opts)
     end
   },
+  {
+    "mfussenegger/nvim-dap",
+  }
 }
 return plugins
