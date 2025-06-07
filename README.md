@@ -1,5 +1,4 @@
-# nvim
+# 💤 LazyVim
 
-Based on https://www.youtube.com/watch?v=mh_EJhH49Ms.
-
-Needs to be cloned in ~/.config and should work out of the box.
+A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
+Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
