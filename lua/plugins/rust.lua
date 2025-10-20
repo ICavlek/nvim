@@ -13,6 +13,7 @@ return {
               ignored = {
                 ["async-recursion"] = { "async_recursion" },
                 ["napi-derive"] = { "napi" },
+                ["async-trait"] = vim.NIL,
               },
             },
           },
